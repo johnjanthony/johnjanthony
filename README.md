@@ -11,4 +11,4 @@ I spend my time designing systems where AI coding agents do real work under huma
 
 ## How I build
 
-I work as the architect and director of a multi-agent workflow: I drive off-the-shelf coding agents (Claude Code, Gemini CLI) through structured, reviewed, test-first loops rather than writing every line by hand. The projects above are both built that way and are the infrastructure that makes it practical, agents that know when to ask, when to argue, and when to ship.
+I work as the architect and director of a multi-agent workflow: I drive off-the-shelf coding agents (Claude Code among them) through structured, reviewed, test-first loops rather than writing every line by hand. The projects above are both built that way and are the infrastructure that makes it practical, agents that know when to ask, when to argue, and when to ship.

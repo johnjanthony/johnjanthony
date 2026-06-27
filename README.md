@@ -2,7 +2,7 @@
 
 Senior software architect and engineer (30 years), now building autonomous-agent developer infrastructure. Denver, CO.
 
-I spend my time designing systems where AI coding agents do real work under human direction: reaching a person when they need a decision, debating each other to a better answer, and automating the multi-step investigations that used to eat afternoons.
+I spend my free time designing systems where AI coding agents do real work under human direction: reaching a person when they need a decision, debating each other to a better answer, and automating the multi-step investigations that used to eat afternoons.
 
 ## Selected work
 

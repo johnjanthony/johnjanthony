@@ -8,6 +8,7 @@ I spend my free time designing systems where AI coding agents do real work under
 
 - **[Switchboard](https://github.com/johnjanthony/Switchboard)** - a human-in-the-loop gateway for AI agents. An MCP server lets agents pause mid-task and reach me on my phone ("away mode"), with native surfaces (Android + Wear OS, a web cockpit, a Windows taskbar widget) over a single Firebase backend.
 - **[SEAO](https://github.com/johnjanthony/SEAO)** - Self-Evolving Agent Orchestrator. Two independent LLM CLI agents debate a coding task to consensus inside an isolated git worktree, then automatically open a pull request. In evolution mode it rebuilds, tests, and promotes a new version of itself.
+- **[YNAB AI Assistant](https://github.com/johnjanthony/ynab-ai-assistant)** - a natural-language financial assistant for YNAB. A Java Spring Boot server exposes 11 budgeting and forecasting tools over the Model Context Protocol plus a REST chat API, and a Chrome extension injects an AI chat panel directly into app.ynab.com for plain-language questions about spending, budgets, and projected balances.
 
 ## How I build
 
